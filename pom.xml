@@ -150,4 +150,11 @@
         </plugins>
     </build>
 
+    <developers>
+        <developer>
+            <name>Guilherme Ximenez</name>
+            <email>gasouza@icloud.com</email>
+        </developer>       
+    </developers>
+
 </project>
