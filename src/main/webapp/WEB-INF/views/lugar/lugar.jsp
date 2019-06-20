@@ -18,7 +18,6 @@
 	            <input id="posicao" type="text" name="posicao" class="form-control" value="${lugarDto.posicao}">
         	</div>
 
-
 			<div class="form-group">
          		<button type="submit" class="btn btn-primary">Gravar</button>
 			</div>
